@@ -7,4 +7,5 @@ Mensaje secreto de Alura.
 ![Screenshot_1](https://github.com/user-attachments/assets/5deb7782-2d6f-4720-8b46-69922fd391e1)
 
 Mensaje secreto desencriptado.
-![Screenshot_2](https://github.com/user-attachments/assets/6973d733-1cd6-416d-99fb-a73918586661)
+
+![Screenshot_2](https://github.com/user-attachments/assets/7482dbaf-3bfd-4a57-8453-72656ee493a4)
